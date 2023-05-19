@@ -1,0 +1,68 @@
+*{
+
+}
+.Bar-section{
+  background-color: rgb(5, 5, 55);
+}
+.Access-section{
+    background-color: white;
+}
+.envelop{
+    background-color: rgb(14, 14, 73);
+}
+nav{
+    display: none;
+}
+.container{
+    display: flex;
+    
+}
+h3{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:20px ;
+}
+.nu{
+   margin-left: 220px;
+   margin-top: 30px;
+}
+.Hire-section{
+    background-color: rgba(3, 3, 13, 0.928);
+}
+.image{
+    border: 10px solid rgb(184, 184, 12);
+    width: 230px;
+    height: 280px;
+    margin: auto;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+.hre{
+    text-align: center;
+    margin-left: -150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+h1{
+    
+}
+span{
+    color: rgb(205, 21, 58);
+}
+.btn{
+    margin-top: 50px;
+    width: 330px;
+    height: 40px;
+    margin-bottom: 20px;
+    color: white;
+    background-image: linear-gradient( rgb(222, 23, 23), rgb(171, 30, 171));
+    border: none;
+    border-radius: 10px;
+}
+.first{
+    line-height: 30px;
+    font-size: 16px;
+}
