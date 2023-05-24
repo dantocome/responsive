@@ -9,6 +9,7 @@
 }
 .envelop{
     background-color: rgb(14, 14, 73);
+    align-items: center;
 }
 nav{
     display: none;
@@ -147,21 +148,23 @@ span{
 }
 .footer-1{
     display: flex;
-    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5px;
     
 }
 .mob{
     display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    margin-top: 50px;
+    margin-top: -5px;
     margin-left: 30px;
 }
 .uot{
    display: flex; 
    text-align: left;
    line-height: 17px;
-   font-size: 10px;
+   font-size: 8px;
 
 }
 .join{
@@ -181,21 +184,20 @@ span{
 }
 .col-3{
     margin-left: 19px;
-    font-size: 13px;
+    font-size: 9px;
     color: white;
-    margin-top: 9px;
 }
 .col-2{
-    font-size: 13px;
+    font-size: 9px;
     color: white;
-    margin-left: -12px;
-    margin-top: 12px;
+    margin-left: -19px;
+
 }
 .right-col{
     font-size: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
-    margin-left: 30px;
+    margin-left: 15px;
     
 }
 .one{
@@ -217,5 +219,6 @@ span{
 .talents{
     display: flex;
 }
+
 
 
