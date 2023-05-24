@@ -15,8 +15,7 @@ nav{
     display: none;
 }
 .container{
-    display: flex;
-    margin: auto;
+
 
     
 }
@@ -50,6 +49,7 @@ h3{
 }
 .tit{
     margin-left: 95px;
+    display: flex;
 }
 .hre{
     text-align: center;
