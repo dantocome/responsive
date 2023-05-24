@@ -15,7 +15,8 @@ nav{
     display: none;
 }
 .container{
-
+   align-items: center;
+   margin-left: 40px;
 
     
 }
@@ -23,6 +24,9 @@ nav{
     display: block;
     margin-left: 60px;
     
+}
+.tit{
+    display: flex;
 }
 h3{
     color: white;
@@ -47,10 +51,7 @@ h3{
     margin: auto;
 
 }
-.tit{
-    margin-left: 95px;
-    display: flex;
-}
+
 .hre{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
