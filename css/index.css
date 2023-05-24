@@ -19,8 +19,7 @@ nav{
     
 }
 .container2{
-    display: flex;
-    flex-wrap: wrap;
+    display: block;
     
 }
 h3{
@@ -43,7 +42,11 @@ h3{
     margin-left: 50px;
     border-radius: 10px;
     margin-top: 20px;
+    margin: auto;
 
+}
+.tit{
+    margin-left: 80px;
 }
 .hre{
     text-align: center;
