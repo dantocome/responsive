@@ -157,40 +157,44 @@ span{
     display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    margin-top: -5px;
-    margin-left: 30px;
+    justify-content:space-between;
+    margin-top: -50px;
 }
 .uot{
    display: flex; 
    text-align: left;
    line-height: 17px;
-   font-size: 8px;
+   font-size: 9px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 .join{
     display: flex;
     text-align: left;
     line-height: 17px;
-    font-size: 10px;
+    font-size: 9px;
     margin-left: -5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 .clients{
-    margin-left: -30px;
+    margin-left: -20px;
     font-size: 11px;
 }
 .pro{
-    margin-left: -13px;
+    margin-left: -20px;
     font-size: 11px;
 }
 .col-3{
-    margin-left: 19px;
-    font-size: 9px;
+    margin-left: 30px;
+    font-size: 11px;
     color: white;
 }
 .col-2{
-    font-size: 9px;
+    font-size: 11px;
     color: white;
-    margin-left: -19px;
+    margin-left: 15px;
+    
 
 }
 .right-col{
@@ -218,6 +222,9 @@ span{
 }
 .talents{
     display: flex;
+}
+.icon{
+    font-size: 12px;
 }
 
 
