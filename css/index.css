@@ -262,7 +262,7 @@ span{
     display: flex;
     padding: 200px;
     margin-top: -230px;
-    margin-left: -90px;
+    margin-left: 30px;
     align-items: center;
     justify-content: center;
     color: white;
@@ -271,6 +271,7 @@ span{
 }
 .tal{
     font-size: 10px;
+    margin-top: -90px;
 
 }
 .comp{
@@ -281,9 +282,11 @@ span{
     font-size: 10px;
     margin-left: 30px;
 
+
 }
 .design{
     margin-left: 30px;
+    
 }
 .cmpy{
     font-size:10px ;
@@ -293,7 +296,7 @@ span{
 }
 .nd{
     margin-top: 150px;
-    margin-left: -200px;
+    margin-left: -250px;
     font-size: 10px;
     border-top: 1px solid white;
     text-align: center;
