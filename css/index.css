@@ -260,7 +260,7 @@ span{
 
 .footer2{
     display: flex;
-    padding: 230px;
+    padding: 250px;
     margin-top: -220px;
     align-items: center;
     justify-content: center;
@@ -270,7 +270,7 @@ span{
 }
 .tal{
     font-size: 10px;
-    margin-top: -95px;
+    margin-top: -85px;
 
 }
 .comp{
