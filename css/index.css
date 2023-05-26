@@ -29,13 +29,16 @@ nav{
     display: flex;
     margin-left: 50px;
 }
+.pile{
+    margin-left: -50px;
+}
 h3{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left:20px ;
 }
 .nu{
-   margin-left: 20px;
+   margin-left: 200px;
    margin-top: 30px;
 }
 .Hire-section{
@@ -169,7 +172,7 @@ span{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     justify-content:space-between;
-    margin-top: 25px;
+    margin-top: -30px;
     margin-left: 5px;
     
 }
@@ -185,11 +188,11 @@ span{
 .col-3{
 
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     margin-left: 25px;
 }
 .col-2{
-    font-size: 10px;
+    font-size: 15px;
     color: white;
     
 
@@ -209,6 +212,7 @@ span{
 .port{
     display: flex;
     margin-top: -5px;
+    font-size: 10px;
 }
 .for{
    margin-left: 5px;
@@ -221,23 +225,23 @@ span{
     display: flex;
 }
 .icon{
-    font-size: 8px;
+    font-size: 10px;
     margin-left: -10px;
 }
 .uot{
-    font-size: 9px;
+    font-size:8px;
 }
 .date{
-    font-size: 9px;
+    font-size: 8px;
     margin-left: -5px;
     padding-left: 17px;
 }
 .ox{
-    font-size: 9px;
+    font-size: 8px;
 
 }
 .zx{
-    font-size: 9px;
+    font-size: 8px;
     margin-left: -9px;
 }
 .Add{
@@ -251,6 +255,49 @@ span{
 }
 .gu{
     margin-left: -5px;
+}
+
+.footer2{
+    display: flex;
+    padding: 200px;
+    margin-top: -230px;
+    margin-left: -90px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.tal{
+    font-size: 10px;
+
+}
+.comp{
+    font-size: 10px;
+    margin-left: -7px;
+}
+.lents{
+    font-size: 10px;
+    margin-left: 30px;
+
+}
+.design{
+    margin-left: 30px;
+}
+.cmpy{
+    font-size:10px ;
+}
+.company{
+    margin-left: 70px;
+}
+.nd{
+    margin-top: 150px;
+    margin-left: -200px;
+    font-size: 10px;
+    border-top: 1px solid white;
+    text-align: center;
+
+    
+
+
 }
 
 
