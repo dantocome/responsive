@@ -261,9 +261,9 @@ span{
 .footer2{
     display: flex;
     padding: 250px;
-    margin-top: -220px;
-    align-items: center;
-    justify-content: center;
+    margin-left: 70px;
+    margin-top: -180px;
+    justify-content: flex-end;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -284,7 +284,7 @@ span{
 
 }
 .design{
-    margin-left: 100px;
+    margin-left: 10px
     
 }
 .cmpy{
@@ -292,6 +292,7 @@ span{
 }
 .company{
     margin-left: 70px;
+    margin-top: -95px;
 }
 .nd{
     margin-top: 150px;
