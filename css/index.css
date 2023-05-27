@@ -167,6 +167,7 @@ span{
     margin-left: -15px;
     padding-bottom: 10px;
     
+    
 }
 .mob{
     display: flex;
@@ -176,6 +177,9 @@ span{
     margin-top: -18px;
     margin-left: 5px;
     
+}
+.bottom{
+    margin-top: 1px;
 }
 
 .clients{
