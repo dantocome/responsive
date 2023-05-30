@@ -12,8 +12,8 @@
     align-items: center;
 }
 .container{
-   align-items: center;
-   margin-left: 10px;
+    border: 2px solid red;
+    align-items: flex-end;
 
     
 }
@@ -315,6 +315,9 @@ nav{
     }
     .tit{
         display: flex;
+    }
+    .container{
+        
     }
     
     
