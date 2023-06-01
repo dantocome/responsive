@@ -118,6 +118,7 @@ nav{
 }
 .wrap2{
     margin-top: 50px;
+    
 }
 .desk{
     margin-top: -20px;
@@ -307,6 +308,27 @@ nav{
 
 }
 
+@media screen and (max-width:1440px){
+    nav{
+        display: flex;
+    }
+    .tit{
+        display: none;
+    }
+    .right-col-main{
+        display: flex;
+        gap: 100px;
+        padding: 20px;
+        justify-content: center;
+    }
+    .wrap2{
+        margin-top: 20px;
+    }
+    .wrap3{
+        margin-top: 20px;
+    }
+    
+}
 
 
 @media screen and (max-width:375px){
@@ -316,13 +338,13 @@ nav{
     .tit{
         display: flex;
     }
-    .container{
-        
+    .right-col-main{
+        display: block;
     }
     
     
-    
 }
+
 
 
      
